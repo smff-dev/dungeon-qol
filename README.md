@@ -13,6 +13,5 @@
 + Dungeon Cooldown Indicator
 + Dungeon Death Indicator
 + Dungeon Score Pre-Calculator
-+ Obtained Secret Indicator
 + Broken Crypts Indicator
 + Current Milestone Indicator
